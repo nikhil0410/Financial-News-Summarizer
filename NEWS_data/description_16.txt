@@ -1,0 +1,64 @@
+Feedback Income tax savings: Finance Minister Nirmala Sitharaman's recent announcement of substantial rebates for middle-income taxpayers under the new tax regime has sparked interest among the middle class on how they can optimise their tax savings. The Budget 2025 has implemented changes to the new tax regime (NTR) to provide relief to the middle class, amounting to Rs 1 lakh crore, while maintaining the old tax regime (OTR) unchanged. The budget now exempts income tax on annual earnings up to Rs 12 lakh (previously Rs 7 lakh), benefiting over one crore taxpayers and reducing the tax burden on others.  With lower tax rates and minimal deductions, the new regime has been structured to simplify taxation, while the old regime continues to offer tax benefits through multiple exemptions and deductions. Central Board of Direct Taxes (CBDT) Chairman Ravi Agarwal told Business Today on Monday that around 95-97 per cent of the taxpayers would join the new tax regime from the current 74-75 per cent. He said currently there are 8-8.5 crore taxpayers.   How much tax do I have to pay? Calculate now Let's check tax savings for different salary and tax brackets 1. Rs 15 lakh annual income New Tax Regime Calculation: Gross Income: Rs 15 lakh
+Standard Deduction: Rs 75,000
+Taxable Income: Rs 15,00,000 - Rs 75,000 = Rs 14,25,000 Tax Calculation:
+0-4 lakh: Nil
+4 lakh - 8 lakh: 5% of 4 lakh = Rs 20,000
+8 lakh - 12 lakh: 10% of 4 lakh = Rs 40,000
+12 lakh - 14.25 lakh: 15% of 2.25 lakh = Rs 33,750 Total tax: Rs 20,000 + Rs 40,000 + Rs 33,750 = Rs 93,750 Cess (4%): Rs 93,750 × 4% = Rs 3,750 Total Tax Liability: Rs 93,750 + Rs 3,750 = Rs 97,500. Old Tax Regime calculation: Gross Income: Rs 15,00,000 Deductions: Standard Deduction: Rs 50,000
+Section 80C (Max): Rs 1,50,000
+Section 80D (Max): Rs 1,00,000
+Home Loan Interest (Section 24B): Rs 2,00,000 Total Deductions: Rs 50,000 + Rs 1,50,000 + Rs 1,00,000 + Rs 2,00,000 = Rs 5,00,000 Taxable Income: Rs 15,00,000 - Rs 5,00,000 = Rs 10,00,000 Tax under Old Tax Regime:
+0-2.5 lakh: Nil
+2.5 lakh - 5 lakh: 5% of 2.5 lakh = Rs 12,500
+5 lakh - 10 lakh: 20% of 5 lakh = Rs 1,00,000 Total tax: Rs 12,500 + Rs 1,00,000 = Rs 1,12,500 Cess (4%): Rs 1,12,500 × 4% = Rs 4,500 Total Tax Liability (Old Regime): Rs 1,12,500 + Rs 4,500 = Rs 1,17,000 Therefore, under New Tax Regime taxpayers earning Rs 15 lakh per annum will pay Rs 97,500 vs Rs 1,17,000 under Old Ta Regime. Therefore, savings of Rs 19,500. 2. Rs 20 lakh income Under the new tax regime, the tax liability is calculated as follows: Income from 0 to 4 lakh: Nil tax
+Income from 4 lakh to 8 lakh: 5% of 4 lakh = Rs 20,000
+Income from 8 lakh to 12 lakh: 10% of 4 lakh = Rs 40,000
+Income from 12 lakh to 16 lakh: 15% of 4 lakh = Rs 60,000
+Income from 16 lakh to 19.25 lakh: 20% of 3.25 lakh = Rs 65,000 The total tax to be paid is Rs 20,000 + Rs 40,000 + Rs 60,000 + Rs 65,000 = Rs 1,85,000. Additionally, a Cess of 4% is levied on the total tax amount, which amounts to Rs 1,85,000 x 4% = Rs 7,400. Therefore, the total tax liability under the new regime comes out to be Rs 1,85,000 + Rs 7,400 = Rs 1,92,400. Under the old tax regime, the calculation is as follows: Gross Income: Rs 20 lakh Deductions: Standard Deduction: Rs 50,000
+Section 80C (Max): Rs 1,50,000
+Section 80D (Max): Rs 1,00,000
+Home Loan Interest (Section 24B): Rs 2,00,000
+Total Deductions: Rs 5,00,000
+Taxable Income: Rs 15,00,000 Tax under Old Tax Regime:
+0-2.5 lakh: Nil
+2.5 lakh - 5 lakh: 5% of 2.5 lakh = Rs 12,500
+5 lakh - 10 lakh: 20% of 5 lakh = Rs 1,00,000
+10 lakh - 15 lakh: 30% of 5 lakh = Rs 1,50,000 Total tax: Rs 2,62,500
+Cess (4%): Rs 10,500
+Total Tax Liability (Old Regime): Rs 2,73,000 Therefore, under the revised new tax slabs of the New Tax Regime, those earning Rs 20 lakh per annum stand to benefit, saving a significant amount of Rs 80,600 annually in taxes compared to the Old Tax Regime. 3. Rs 24 lakh annual income Tax Liability under the New Regime: Gross Income: Rs 24 lakh
+Standard Deduction: Rs 75,000
+Taxable Income: Rs 24,00,000 - Rs 75,000 = Rs 23,25,000 Tax Breakdown:
+0-4 lakh: Nil
+4 lakh - 8 lakh: 5% of 4 lakh = Rs 20,000
+8 lakh - 12 lakh: 10% of 4 lakh = Rs 40,000
+12 lakh - 16 lakh: 15% of 4 lakh = Rs 60,000
+16 lakh - 20 lakh: 20% of 4 lakh = Rs 80,000
+20 lakh - 23.25 lakh: 25% of 3.25 lakh = Rs 81,250 Total Tax Calculation:
+Total tax: Rs 20,000 + Rs 40,000 + Rs 60,000 + Rs 80,000 + Rs 81,250 = Rs 2,81,250
+Cess (4%): Rs 2,81,250 × 4% = Rs 11,250 Total Tax Liability under New Regime:
+Total Tax Liability: Rs 2,81,250 + Rs 11,250 = Rs 2,92,500. Under the Old Tax Regime: Gross Income: Rs 24 lakh Deductions: Standard Deduction: Rs 50,000
+Section 80C (Maximum): Rs 1,50,000
+Section 80D (Maximum): Rs 1,00,000
+Home Loan Interest (Section 24B): Rs 2,00,000 Total Deductions: Rs 5,00,000 Taxable Income: Rs 19,00,000 Tax under Old Tax Regime:
+0-2.5 lakh: Nil
+2.5 lakh - 5 lakh: 5% of 2.5 lakh = Rs 12,500
+5 lakh - 10 lakh: 20% of 5 lakh = Rs 1,00,000
+10 lakh - 19 lakh: 30% of 9 lakh = Rs 2,70,000 Total tax: Rs 3,82,500 Cess (4%): Rs 15,300 Total Tax Liability (Old Regime): Rs 3,97,800 The new tax system appears to be more beneficial for individuals with an annual income of up to Rs 24 lakh, as the updated tax slabs and structure introduced in Budget 2025 will result in savings of Rs 1,05,300 compared to the previous regime. 4. Rs 30 lakh annual income Taxes under New Regime: Gross Income: Rs 30 lakh
+Standard Deduction: Rs 75,000
+Taxable Income: Rs 29,25,000 Tax under New Tax Regime:
+0-4 lakh: Nil
+4 lakh - 8 lakh: 5% of 4 lakh = Rs 20,000
+8 lakh - 12 lakh: 10% of 4 lakh = Rs 40,000
+12 lakh - 16 lakh: 15% of 4 lakh = Rs 60,000
+16 lakh - 20 lakh: 20% of 4 lakh = Rs 80,000
+20 lakh - 24 lakh: 25% of 4 lakh = Rs 1,00,000
+24 lakh - 29.25 lakh: 30% of 5.25 lakh = Rs 1,57,500
+Total tax: Rs 4,57,500
+Cess (4%): Rs 18,300 Total Tax Liability (New Regime): Rs 4,75,800 Under the Old Tax Regime: Gross Income: Rs 30 lakh Deductions: Standard Deduction: Rs 50,000
+Section 80C (Maximum): Rs 1,50,000
+Section 80D (Maximum): Rs 1,00,000
+Home Loan Interest (Section 24B): Rs 2,00,000 Total Deductions: Rs 5,00,000 Taxable Income: Rs 25,00,000 Tax Calculation under Old Tax Regime:
+0-2.5 lakh: Nil
+2.5 lakh - 5 lakh: 5% of 2.5 lakh = Rs 12,500
+5 lakh - 10 lakh: 20% of 5 lakh = Rs 1,00,000
+10 lakh - 25 lakh: 30% of 15 lakh = Rs 4,50,000 Total Tax: Rs 5,62,500 Cess (4%): Rs 22,500 Total Tax Liability (Old Regime): Rs 5,85,000 Individuals earning an annual income of Rs 30 lakh will benefit from greater savings under the New Tax Regime following the latest revision in income tax slabs. The estimated total savings amount to approximately Rs 1,09,200 compared to the Old Tax Regime. Copyright©2025 Living Media India Limited. For reprint rights: Syndications Today Add Business Today to Home Screen Home Market BT TV Reels Menu Menu
