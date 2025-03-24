@@ -26,7 +26,7 @@ The Financial News Summarizer is a Streamlit-based application designed to fetch
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/financial-news-summarizer.git
+   git clone https://github.com/nikhil0410/Financial-News-Summarizer.git
    cd financial-news-summarizer
 2. **Install Dependencies:**
 
