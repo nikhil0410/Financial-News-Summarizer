@@ -24,6 +24,9 @@ predefined_topics = ["Stocks", "Mutual Funds", "Tax-Saving Investments", "RBI Po
 selected_topic = st.selectbox("Choose a topic:", predefined_topics)
 additional_text = st.text_input("Add additional search criteria:", "")
 
+# Define threshold for similarity
+SIMILARITY_THRESHOLD = 0.90
+
 if st.button("Fetch and Summarize"):
     if selected_topic and additional_text:
         query_topic = f"{str(selected_topic)} - {str(additional_text)}"
@@ -31,19 +34,16 @@ if st.button("Fetch and Summarize"):
 
         # Query pre-existing embeddings
         query_embedding = embeddings.embed_query(query_topic)
-        # print(type(query_embedding))  # Should be a numpy array or similar structure
-        # print(query_embedding)
-        # query_embedding = query_embedding.flatten()  
-        similar_docs = db.similarity_search(query_topic, k=3)
-        # similar_docs = 0
+        similar_docs = db.similarity_search_with_score(query_topic, k=3)
 
-        if similar_docs:
+        # Check if any of the scores are above the threshold
+        if any(score > SIMILARITY_THRESHOLD for doc, score in similar_docs):
             st.write("Found similar topics in the database. Using them for insights.")
 
             combined_input = (
                 "Here are some documents that might help answer the question: {}".format(query_topic)
-                + "\n\n".join([doc.page_content for doc in similar_docs])
-                + "\n\nPlease summarize the content in no more than 10 lines."
+                + "\n\n".join([doc.page_content for doc, score in similar_docs if score > SIMILARITY_THRESHOLD])
+                + "\n\nPlease summarize the content in no more than 50 lines."
             )
 
             llm = ChatOpenAI(model="gpt-4o")
@@ -54,14 +54,7 @@ if st.button("Fetch and Summarize"):
             ]
 
             result = llm.invoke(messages)
-
-            # st.subheader("Generated Summary")
             st.write(result.content)
-
-
-
-            # for doc in similar_docs:
-            #     st.write(f"- {doc.page_content}")
         else:
             st.write("No similar topics found in the database. Performing a new search.")
 
@@ -141,7 +134,7 @@ if st.button("Fetch and Summarize"):
             combined_input = (
                 "Here are some documents that might help answer the question: {}".format(query_topic)
                 + "\n\n".join([doc.page_content for doc in relevant_docs])
-                + "\n\nPlease summarize the content in no more than 4 lines."
+                + "\n\nPlease summarize the content in no more than 20 lines."
             )
 
             llm = ChatOpenAI(model="gpt-4o")
@@ -152,7 +145,6 @@ if st.button("Fetch and Summarize"):
             ]
 
             result = llm.invoke(messages)
-
             st.subheader("Generated Summary")
             st.write(result.content)
     else:
